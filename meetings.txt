@@ -1,0 +1,14 @@
+Group Meetings
+
+Friday 22nd Jan
+-Agreed to set an agenda before every meeting can go ahead without delay and efficiently use our time during the meeting. 
+-Discuss Questions we can put to Kevin regarding any uncertainties around project.
+-Each create a brainstorm for others in the group of what features could be developed 
+ in this project if we were to make it using the business idea, we each used for our databases coursework.
+
+Tuesday 26th Jan 
+-Practiced using GitHub and trying to understand how to use it, during our zoom meeting.
+
+Friday 29th Jan
+-make use of technical terms throughout our work. 
+-decided on the MVP: a communicative platform for liaising with medical colleges in other parts of the world.
