@@ -12,3 +12,9 @@ Tuesday 26th Jan
 Friday 29th Jan
 -make use of technical terms throughout our work. 
 -decided on the MVP: a communicative platform for liaising with medical colleges in other parts of the world.
+
+Monday 1st Feb (seminar)
+-talking about the computer programming languages needed to complete the project. The non negotiable elements Git, node.js, etc
+
+Wednesday 3rd Feb
+- Going over coursework making last alterations before submission. 
