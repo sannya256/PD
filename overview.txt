@@ -1,0 +1,5 @@
+Overview
+
+The web application that our team will develop is for an international medical relief charity operating in developing countries, 
+the platform will provide colleges in the organisation a secure tool in which they can communicate with one another and liase with colleges 
+in other parts of the world for advise and resources.
